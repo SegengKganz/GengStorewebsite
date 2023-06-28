@@ -1,0 +1,447 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Geng Store</title>
+    <!--  Essential META Tags -->
+    <meta property="og:title" content="Ikystore Team">
+    <meta property="og:type" content="article" />
+    <meta property="og:image" content="https://cdn.discordapp.com/attachments/978504859642908743/1106121572663705661/image.png">
+    <meta name="theme-color" content="#00FFE0" />
+    <meta property="og:url" content="http://noerror.studio/index.html">
+    <meta name="twitter:card" content="summary_large_image">
+
+    <!--  Non-Essential, But Recommended -->
+    <meta property="og:description" content="Welcome to Geng Store, where we transform your digital dreams into reality. As a premier coding company, we offer a range of specialized services to bring your ideas to life. Our team of expert coders is dedicated to providing top-notch quality and innovative solutions for all your web and software development needs. ">
+    <meta property="og:site_name" content="Ikystore Team">
+    <meta name="twitter:image:alt" content="Banner">
+
+
+    <link rel="icon" href="https://octagonemusic.github.io/NoError/Assets/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/f03ed816cf.js" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+
+    <div id="loader">
+        <div id="loader-logo">
+            <img src="Assets/about.png" alt="Logo" class="d-inline-block navbar-logo align-text-top">
+        </div>
+        <div id="progress-bar">
+            <div id="myProgress">
+                <div id="myBar"></div>
+            </div>
+        </div>
+    </div>
+
+    <div id="loaded">
+        <nav class="navbar navbar-expand-lg">
+            <div class="container-fluid">
+                <a class="navbar-brand d-flex align-items-center" href="#">
+                    <img src="Assets/logo.png" alt="Logo" class="d-inline-block navbar-logo align-text-top">
+                    <span class="logo-text">&nbspIkystore bot</span>
+                </a>
+                <button class="navbar-toggler custom-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" href="" target="_blank"><i
+                                    class="fa-brands nav-icon fa-discord fa-xl"><span class="mobileNavLinks"
+                                        id="discordLink">&nbsp&nbspDiscord</span></i></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://github.com/SegengKganz" target="_blank"><i
+                                    class="fa-brands nav-icon fa-github fa-xl"><span class="mobileNavLinks"
+                                        id="githubLink">&nbsp&nbspGitHub</span></i></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://www.youtube.com/@skffgames" target="_blank"><i
+                                    class="fa-brands nav-icon fa-youtube fa-xl"><span class="mobileNavLinks"
+                                        id="youtubeLink">&nbsp&nbspYouTube</span></i></a>
+                        </li>
+                        <li class="nav-item hidden-item">
+                            <a class="nav-link" href="https://wa.me/18016821024"
+                                target="_blank"><i class="fa-brands nav-icon fa-whatsapp fa-xl"><span
+                                        class="mobileNavLinks" id="linkedinLink">&nbsp&nbspWhatsApp</span></i></a>
+                        </li>
+                        <li class="nav-item hidden-item">
+                            <a class="nav-link" href="https://instagram.com/geng_store12" target="_blank"><i
+                                    class="fa-brands nav-icon fa-instagram fa-xl"><span class="mobileNavLinks"
+                                        id="twitterLink">&nbsp&nbspInstagram</span></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <div id="particles-js"></div>
+
+        <div class="wrapper">
+            <div class="intro hidden">
+                <div class="background-img"><img src="Assets/background.png"></div>
+                <div class="intro-text">
+                    <h1>website <span class="colored-text">GengStore</span> Bot</h1><br>
+                    <h1> <span class="colored-text"></span> </h1><br>
+                    <button class="hire-us btn btn-primary btn-lg"><a href="https://chat.whatsapp.com/CO4USbDLEte2GzCN2GH7aJ">Gabung</a></button>
+                </div>
+            </div>
+            <div class="about container-fluid hidden">
+                <h1><span class="bottom-line">Apa Itu GengStore?</span></h1>
+                <div class="row">
+                    <div class="col-sm-12 col-lg-7">
+                        <p>Kami adalah layanan yang menyediakan beragam Situs Web dan Bot Perselisihan yang dikembangkan dan dipelihara oleh tim kami bersama dengan beberapa proyek berbeda lainnya. Tidak seperti toko bot lainnya, kami mengembangkan Bot dan Situs Web Discord sesuai dengan selera pelanggan kami. Sebut saja mereka dan kami mendapatkannya. Kepuasan pelanggan adalah prioritas utama kami.</p>
+
+                        <p>Selain pesanan bot, kami juga menyediakan proyek sumber terbuka gratis di saluran YouTube kami.</p>
+
+                        <p>Jadi mengapa tidak mendapatkan bot hari ini? Bukan pilihan orang lain tapi milikmu! Bukan kebutuhan orang lain tapi milikmu! Dapatkan hari ini! Wujudkan imajinasi Anda dengan Geng Store join sekarang!</p>
+                    </div>
+                    <div class="col-5">
+                        <img src="Assets/about.png" alt="About Image">
+                    </div>
+                </div>
+            </div>
+
+            <div class="services hidden">
+                <h1>Serv<span class="bottom-line">ices We Offer!</span></h1>
+                <div class="row">
+                    <div class="service-box col-sm-12 col-lg-4">
+                        <div class="service-child">
+                            <div class="row">
+                                <div class="service-img col-4">
+                                    <div class="circle"><i class="fa-brands discord-service fa-whatsapp fa-2xl"></i>
+                                    </div>
+                                </div>
+                                <div class="service-text col-8">
+                                    <p>Bot WhatsApp</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="service-box col-sm-12 col-lg-4">
+                        <div class="service-child">
+                            <div class="row">
+                                <div class="service-img col-4">
+                                    <div class="circle"><i class="fa-solid fa-window-maximize fa-2xl"></i></div>
+                                </div>
+                                <div class="service-text col-8">
+                                    <p>Pembayaran/<br>Terjamin Aman</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="service-box col-sm-12 col-lg-4">
+                        <div class="service-child">
+                            <div class="row">
+                                <div class="service-img col-4">
+                                    <div class="circle"><i class="fa-solid fa-code fa-2xl"></i></div>
+                                </div>
+                                <div class="service-text col-8">
+                                    <p>All Script Fitur</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="service-box col-sm-12 col-lg-4">
+                        <div class="service-child">
+                            <div class="row">
+                                <div class="service-img col-4">
+                                    <div class="circle"><i class="fa-solid fa-microchip fa-2xl"></i></div>
+                                </div>
+                                <div class="service-text col-8">
+                                    <p>Jasa install<br>Ddos Vps</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="service-box col-sm-12 col-lg-4">
+                        <div class="service-child">
+                            <div class="row">
+                                <div class="service-img col-4">
+                                    <div class="circle"><i class="fa-solid fa-screwdriver-wrench fa-2xl"></i></div>
+                                </div>
+                                <div class="service-text col-8">
+                                    <p>Custom Fitur Script</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="service-box col-sm-12 col-lg-4">
+                        <div class="service-child">
+                            <div class="row">
+                                <div class="service-img col-4">
+                                    <div class="circle"><i class="fa-solid fa-layer-group fa-2xl"></i></div>
+                                </div>
+                                <div class="service-text col-8">
+                                    <p>Open install panel</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="projects hidden">
+                <h1><span class="bottom-line">Bukti ScreenShot Te</span>stimoni</h1>
+                <div class="row">
+                    <div class="col-sm-12 col-lg-4">
+                        <div class="project-box">
+                            <div class="project-img">
+                                <div class="test-img"><img src="Assets/braindance.png"></div>
+                            </div>
+                            <div class="project-text">
+                                <h3></h3>
+                                <p> jasa run bot Dengan Menggunakan Layanan Run Bot Tinggal Scan QR.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-lg-4">
+                        <div class="project-box">
+                            <div class="project-img">
+                                <div class="test-img"><img src="Assets/pixelnft.png"></div>
+                            </div>
+                            <div class="project-text">
+                                <h3></h3>
+                                <p id="pixel">Sewa bot 24jam.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-lg-4">
+                        <div class="project-box">
+                            <div class="project-img">
+                                <div class="test-img"><img src="Assets/idnft.png"></div>
+                            </div>
+                            <div class="project-text">
+                                <h3></h3>
+                                <p>Pembayaran lewat qiris allpaymenet bisa lewat dana,gopay,ovo, shopepay.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="view-projects">
+                    <h5><a href="">View All Projects</a></h5>
+                </div>
+            </div>
+
+            <div class="reviews hidden">
+                <h1>apa aja <span class="bottom-line">yang ada di Geng Store</span></h1>
+                <div class="row comment-row">
+                    <div class="col-sm-12 col-lg-4 comment-box comment-box-small">
+                        <div class="username"><img src="Assets/logo.png">
+                            <h4>premium bot</h4>
+                        </div>
+                        <div class="review-text small">
+                            <p>keuntungan premium bot dapet limit banyak dan bebas pake harga seiklasnya pembayaran via pulsa dan dana.</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-lg-4 comment-box comment-box-large">
+                        <div class="username"><img src="Assets/logo.png">
+                            <h4>sewa bot</h4>
+                        </div>
+                        <div class="review-text">
+                            <p>Sewa bot 1bulan 10k</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-lg-4 comment-box comment-box-small">
+                        <div class="username"><img src="Assets/logo.png">
+                            <h4>jadibot dan owner.</h4>
+                        </div>
+                        <div class="review-text small">
+                            <p>Jasa buat bot dan owner  perbulan 30-40k minat bisa chat icon whatsapp pembayaran via Dana</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row comment-row comment-row-bottom">
+                    <div class="col-sm-12 col-lg-4 comment-box comment-box-small">
+                        <div class="username"><img src="Assets/logo.png">
+                            <h4>Ddos Protection</h4>
+                        </div>
+                        <div class="review-text small">
+                            <p> minat bisa chat di icon wa pembayaran via qiris allpaymenet                            </p>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-lg-4 comment-box comment-box-large">
+                        <div class="username"><img src="Assets/logo.png">
+                            <h4>apa itu qiris all payment</h4>
+                        </div>
+                        <div class="review-text">
+                            <p>qiris allpaymenet adalah pembayaran bisa lewat dana,gopay,ovo,shopepay dengan mengscan qr doang.</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-lg-4 comment-box comment-box-small">
+                        <div class="username"><img src="Assets/logo.png">
+                            <h4>Ap</h4>
+                        </div>
+                        <div class="review-text small">
+                            <p>Experts of their category, I actually have taken a lot of samples from their codes and learned from them. Inshort, Very talented people.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="needs hidden">
+                <div class="text">
+                    <h1>Let Us Handle your Coding And Tech Related Needs</h1>
+                </div>
+                <div class="hire-us-btn">
+                    <button class="hire-us btn btn-primary btn-lg"><a href="#contact-us">Hire Us</a></button>
+                </div>
+            </div>
+
+            <div class="contact hidden" id="contact-us">
+                <h1><span class="bottom-line">Contact</span> Us</h1>
+                <div class="row">
+                    <div class="col-sm-12 col-lg-10">
+                        <div class="contact-form">
+                            <form action="mailto:segengkpanel@gmail.com" method="post" enctype="text/plain">
+                                <div class="row input-row">
+                                    <div class="col-sm-12">
+                                        <input type="text" id="name" placeholder="Name">
+                                    </div>
+                                </div>
+                                <div class="row input-row">
+                                    <div class="col-sm-12">
+                                        <input type="email" id="email" placeholder="E-Mail">
+                                    </div>
+                                </div>
+                                <div class="row input-row">
+                                    <div class="col-sm-12">
+                                        <select required>
+                                            <option value="" disabled selected>Budget</option>
+                                            <option value="500">$500 - $1,000</option>
+                                            <option value="1000">$1,000 - $3,000</option>
+                                            <option value="3000">$3,000 - $5,000</option>
+                                            <option value="5000">$5,000 - $7,000</option>
+                                            <option value="7000">$7,000 - $10,000</option>
+                                            <option value="10000">$10,000+</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="row input-row">
+                                    <div class="col-sm-12">
+                                        <select required>
+                                            <option value="" disabled selected>Services</option>
+                                            <option value="bots">Discord Bots</option>
+                                            <option value="websites">Websites/Dashboards</option>
+                                            <option value="scripts">Custom Scripts</option>
+                                            <option value="ai">AI Software Development</option>
+                                            <option value="software">Custom Software</option>
+                                            <option value="backend">Backend & Frontend</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="row input-row">
+                                    <div class="col-sm-12">
+                                        <textarea placeholder="Your Message"></textarea>
+                                    </div>
+                                </div>
+                                <div class="row input-row">
+                                    <div class="col-sm-12 col-lg-4">
+                                        <input type="submit" value="Submit">
+                                    </div>
+                                    <div class="call-button col-sm-12 col-lg-4">
+                                        <button class="call-btn btn btn-primary btn-lg"><a
+                                                href="https://calendly.com/NoError" target="_blank">Book
+                                                Call</a></button>
+                                    </div>
+                                    <div class="col"></div>
+                                </div>
+
+                            </form>
+                        </div>
+                    </div>
+                    <div class="contact-icons col-lg-2">
+                        <div class="icons-list">
+                            <div class="icon-list-item row">
+                                <div class="icon-list-icon col-12">
+                                    <a href="" target="_blank"><i
+                                            class="contact-icon fa-brands fa-discord fa-2xl"></i></a>
+                                </div>
+                            </div>
+                            <div class="icon-list-item row">
+                                <div class="icon-list-icon col-12">
+                                    <a href="https://www.linkedin.com/company/noerror-studio" target="_blank"><i
+                                            class="contact-icon fa-brands fa-linkedin fa-2xl"></i></a>
+                                </div>
+                            </div>
+                            <div class="icon-list-item row">
+                                <div class="icon-list-icon col-12">
+                                    <a href="https://github.com/noerrorstudio" target="_blank"><i
+                                            class="contact-icon fa-brands fa-github fa-2xl"></i></a>
+                                </div>
+                            </div>
+                            <div class="icon-list-item row">
+                                <div class="icon-list-icon col-12">
+                                    <a href="https://www.youtube.com/c/NoErrorStudios" target="_blank"><i
+                                            class="contact-icon fa-brands fa-youtube fa-2xl"></i></a>
+                                </div>
+                            </div>
+                            <div class="icon-list-item row">
+                                <div class="icon-list-icon col-12">
+                                    <a href="https://twitter.com/NoErrorStudio" target="_blank"><i
+                                            class="contact-icon fa-brands fa-twitter fa-2xl"></i></a>
+                                </div>
+                            </div>
+                            <br>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer">
+            <div class="row">
+                <div class="footer-text col-sm-12 col-lg-8">
+                    <div class="footer-logo d-flex">
+                        <img src="Assets/logo.png" alt="Logo" class="d-inline-block navbar-logo align-text-top">
+                        <span class="logo-text">&nbsp<span class="bottom-line">Ikystore</span></span>
+                    </div>
+                    <p>Jika Membutuhkan Script Bot All Fitur No ENC? silahkan bergabung dalam bagian Komunitas grup Ikystore
+                        custom projects!</p>
+                    <p>© 2023 Ikystore. All Rights Reserved.</p>
+                </div>
+                <div class="policies col-sm-12 col-lg-4">
+                    <p><a href="#">Privacy Policy</a></p>
+                    <p><a href="#">Terms of Service</a></p>
+                    <p><a href="">FAQs</a></p>
+                    <p>
+                        <a href="" target="_blank"><i
+                                class="footer-icons fa-brands fa-discord fa-xl"></i></a>
+                        <a href="https://wa.me/6283846677065" target="_blank"><i
+                                class="footer-icons fa-brands fa-whatsapp fa-xl"></i></a>
+                        <a href="https://github.com/SegengKganz" target="_blank"><i
+                                class="footer-icons fa-brands fa-github fa-xl"></i></a>
+                        <a href="https://www.youtube.com/@skffgames" target="_blank"><i
+                                class="footer-icons fa-brands fa-youtube fa-xl"></i></a>
+                        <a href="https://instagram.com/geng_store12" target="_blank"><i
+                                class="footer-icons fa-brands fa-instagram fa-xl"></i></a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe"
+        crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"
+        integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script>
+    <script src="JavaScript/particles.js"></script>
+    <script src="JavaScript/app.js"></script>
+    <script src="JavaScript/fade-animation.js"></script>
+    <script src="JavaScript/pre-loader.js"></script>
+</body>
+
+</html>
